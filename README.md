@@ -14,7 +14,7 @@ The interface offers three main capabilities:
 
 ### Installation
 
-1. Make sure you have ACE-Step installed
+1. Make sure you have ACE-Step installed (https://github.com/ace-step/ACE-Step/)
 2. Install additional dependencies:
    ```
    pip install gradio==4.26.0 soundfile
@@ -23,6 +23,7 @@ The interface offers three main capabilities:
 ### Running the App
 
 ```
+Copy utils.py, gradio_app.py and param_maps.py into the original ACE-Step folder.
 python gradio_app.py
 ```
 
