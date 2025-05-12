@@ -22,8 +22,8 @@ The interface offers three main capabilities:
 
 ### Running the App
 
-```
 Copy utils.py, gradio_app.py and param_maps.py into the original ACE-Step folder.
+```
 python gradio_app.py
 ```
 
